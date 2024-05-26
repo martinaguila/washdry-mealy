@@ -1,0 +1,9 @@
+C:\Users\martin aguila\source\repos\WashAndDryApp\WashAndDryApp\bin\Debug\WashAndDryApp.exe.config
+C:\Users\martin aguila\source\repos\WashAndDryApp\WashAndDryApp\bin\Debug\WashAndDryApp.exe
+C:\Users\martin aguila\source\repos\WashAndDryApp\WashAndDryApp\bin\Debug\WashAndDryApp.pdb
+C:\Users\martin aguila\source\repos\WashAndDryApp\WashAndDryApp\obj\Debug\WashAndDryApp.csproj.AssemblyReference.cache
+C:\Users\martin aguila\source\repos\WashAndDryApp\WashAndDryApp\obj\Debug\WashAndDryApp.Properties.Resources.resources
+C:\Users\martin aguila\source\repos\WashAndDryApp\WashAndDryApp\obj\Debug\WashAndDryApp.csproj.GenerateResource.cache
+C:\Users\martin aguila\source\repos\WashAndDryApp\WashAndDryApp\obj\Debug\WashAndDryApp.csproj.CoreCompileInputs.cache
+C:\Users\martin aguila\source\repos\WashAndDryApp\WashAndDryApp\obj\Debug\WashAndDryApp.exe
+C:\Users\martin aguila\source\repos\WashAndDryApp\WashAndDryApp\obj\Debug\WashAndDryApp.pdb
